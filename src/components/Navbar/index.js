@@ -1,11 +1,18 @@
 import React from 'react'
+import { Nav, NavLink, NavIcon, Bars } from './NavbarElements'
 
 const Navbar = () => {
     return (
-        <div>
-            <h1>NAVBAR</h1>
-        </div>
-    )
-}
+        <>
+            <Nav>
+                <NavLink to='/'>MRDFLOWERSHOP</NavLink>
+                <NavIcon>
+                    <p>Menu</p>
+                    <Bars />
+                </NavIcon>
+            </Nav>
+        </>
+    );
+};
 
-export default Navbar
+export default Navbar;
