@@ -1,6 +1,9 @@
 import product1 from '../../images/Snakeplant.jpg';
 import product2 from '../../images/coleus.JPEG';
 import product3 from '../../images/dumbcane.jpg';
+import sweet1 from '../../images/sucone.jpg';
+import sweet2 from '../../images/suctwo.jpg';
+import sweet3 from '../../images/sucthree.JPEG';
 
 
 export const productData = [
@@ -28,4 +31,33 @@ export const productData = [
         price: 'GHS40.00',
         button: 'Add to Cart'
     }
-]
+];
+
+
+
+export const productDataTwo = [
+    {
+        img: sweet1,
+        alt: 'Cactus plant',
+        name: 'Cactus plant',
+        desc: 'An indoor plant',
+        price: 'GHS60.00',
+        button: 'Add to Cart'
+    },
+    {
+        img: sweet2,
+        alt: 'cactus plant',
+        name: 'Cactus plant',
+        desc: 'An indoor plant',
+        price: 'GHS60.00',
+        button: 'Add to Cart'
+    },
+    {
+        img: sweet3,
+        alt: 'cactus plant',
+        name: 'Cactus plant',
+        desc: 'An indoor plant',
+        price: 'GHS60.00',
+        button: 'Add to Cart'
+    }
+];
