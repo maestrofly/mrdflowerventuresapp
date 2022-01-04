@@ -33,7 +33,7 @@ export const SocialMediaWrap = styled.div`
 `;
 
 export const SocialLogo = styled(Link)`
- color: #fff;
+ color: #ffff00;
  justify-self: start;
  cursor: pointer;
  text-decoration: none;
