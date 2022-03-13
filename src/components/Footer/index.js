@@ -21,13 +21,13 @@ const Footer = () => {
             <FooterWrap>
                 <SocialMedia>
                     <SocialMediaWrap>
-                        <SocialLogo to="/">MRD PLANT SHOP</SocialLogo>
+                        <SocialLogo to="/">MRD FLOWER VENTURES</SocialLogo>
                         <SocialIcons>
                             <SocialIconLink href="/" target="_blank"
                             aria-label="Facebook" rel="noopener noreferrer">
                                 <FaFacebook />
                             </SocialIconLink>
-                            <SocialIconLink href="/" target="_blank"
+                            <SocialIconLink href="https://www.instagram.com/mrdflowerventures/" target="_blank"
                             aria-label="Instagram" rel="noopener noreferrer">
                                 <FaInstagram />
                             </SocialIconLink>
