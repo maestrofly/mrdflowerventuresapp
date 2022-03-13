@@ -12,7 +12,7 @@ export const productData = [
         alt: 'Snake plant',
         name: 'Snake plant',
         desc: 'An indoor plant',
-        price: 'GHS40.00',
+        price: 'GHS60.00',
         button: 'Add to Cart'
     },
     {
@@ -20,7 +20,7 @@ export const productData = [
         alt: 'coleus plant',
         name: 'coleus plant',
         desc: 'An outdoor plant',
-        price: 'GHS40.00',
+        price: 'GHS60.00',
         button: 'Add to Cart'
     },
     {
@@ -28,7 +28,7 @@ export const productData = [
         alt: 'dumbcane plant',
         name: 'Dumb cane plant',
         desc: 'An indoor plant',
-        price: 'GHS40.00',
+        price: 'GHS60.00',
         button: 'Add to Cart'
     }
 ];
@@ -41,7 +41,7 @@ export const productDataTwo = [
         alt: 'Cactus plant',
         name: 'Cactus plant',
         desc: 'An indoor plant',
-        price: 'GHS60.00',
+        price: 'GHS80.00',
         button: 'Add to Cart'
     },
     {
@@ -49,7 +49,7 @@ export const productDataTwo = [
         alt: 'cactus plant',
         name: 'Cactus plant',
         desc: 'An indoor plant',
-        price: 'GHS60.00',
+        price: 'GHS80.00',
         button: 'Add to Cart'
     },
     {
@@ -57,7 +57,7 @@ export const productDataTwo = [
         alt: 'cactus plant',
         name: 'Cactus plant',
         desc: 'An indoor plant',
-        price: 'GHS60.00',
+        price: 'GHS80.00',
         button: 'Add to Cart'
     }
 ];
