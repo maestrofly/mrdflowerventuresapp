@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Social Media: INSTAGRAM: @mrdflowerventures
+
+-Display Available Plants
+-Care Tips for plants
+-Plant Description
+-Plant Pictures
+-Benefits and Uses of plants
+-Order online
+-Receiving mails
+-pay online
+-delivery options
