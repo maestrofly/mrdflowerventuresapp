@@ -3,7 +3,7 @@ import { NavLink as Link } from 'react-router-dom';
 import { RiPlantFill } from 'react-icons/ri'
 
 export const Nav = styled.nav`
-  background: green;
+  background: yellow;
   height: 80px;
   display: flex;
   justify-content: center;
